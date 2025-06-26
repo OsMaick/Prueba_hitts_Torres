@@ -21,11 +21,11 @@ Table of contents
 | **Material 2**      | UI components              | 20.x         |
 | **MSSQL**| Database                   |        |
 
-2 · Backend – laravel-api/
+2 · Backend – api-admin-usuarios/
 2.1 Install & set-up
 
-git clone https://github.com/your-org/admin-usuarios.git
-cd admin-usuarios/laravel-api
+git clone https://github.com/OsMaick/Prueba_hitts_Torres.git
+cd api-admin-usuarios
 composer install
 cp .env.example .env
 php artisan key:generate        # sets APP_KEY
